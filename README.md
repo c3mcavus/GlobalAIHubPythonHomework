@@ -1,3 +1,3 @@
 # GlobalAIHubPythonHomework
 
-* Global AI Hub Introduction to Python Programming homeworks and solutions.
+* Global AI Hub Introduction to Python Programming project, homeworks and solutions.
